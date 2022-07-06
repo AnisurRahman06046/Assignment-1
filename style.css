@@ -76,4 +76,26 @@
     padding: 30px;
     background-color: rgb(241, 244, 247);
 }
+input{
 
+    padding: 5px;
+    width: 55%;
+    text-align: center;
+    margin-top: 2%;
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+    border-bottom-style:groove;
+   
+}
+.money-input{
+    padding: 20px;
+    text-align: center;
+    margin-left: 110px;
+    
+}
+.btn-position{
+    margin-top: 15px;
+    text-align: center;
+    margin-left: 100px;
+}

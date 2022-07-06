@@ -38,3 +38,42 @@
     font-weight: 700;
     background-image: linear-gradient(orange,red);
 }
+.container2{
+    margin-top: 8%;
+    text-align: center;
+    
+    
+}
+
+
+.amount-container{
+    display: flex;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 2%;  
+    width: 50%;
+    height: 100px;
+    border: 1px solid gainsboro;
+    padding: 25px;
+    
+}
+.box1{
+    border: 2px solid tomato;
+    border-radius: 4px;
+    margin: 3px;
+    width: 15%;
+    padding: 30px;
+    background-color: rgba(241, 186, 186, 0.972);
+    color: red;
+    
+    
+    
+}
+.box-common{
+    border: 1px solid white;
+    margin: 3px;
+    width: 15%;
+    padding: 30px;
+    background-color: rgb(241, 244, 247);
+}
+

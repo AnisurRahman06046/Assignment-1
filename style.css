@@ -159,3 +159,32 @@ input{
     
     
 }
+.update_title{
+    margin-top: 4%;
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+
+}
+.update_para{
+    margin-top: 2%;
+    text-align: center;
+}
+
+footer{
+    margin-top: 10px;
+    width: 100%;
+    height: 150px;
+    background-color: black;
+    text-align: center;
+    
+}
+.footer_heading{
+    color:orangered;
+    padding: 20px;
+     font-family: 'Space Mono', monospace;
+}
+footer p{
+    color: white;
+}

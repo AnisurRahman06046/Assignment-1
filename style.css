@@ -11,23 +11,30 @@
     background-repeat: no-repeat;
     background-size: cover;
     text-align: center;
-    color: white;
+    
     
 }
 .title-container{
     font-size: 60px;
     font-weight: bold;
+    color: ghostwhite;
 
 }
 .intro-para{
     font-size: 20px;
-    
+    color: ghostwhite;
+
 }
 .banner-container{
     padding: 20%;
 
 }
 .button-look{
+    border-radius: 8px;
+    padding: 12px;
+    font-size: 20px;
     text-decoration: none;
-    color: crimson;
+    color: white;
+    font-weight: 700;
+    background-image: linear-gradient(orange,red);
 }

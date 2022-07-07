@@ -170,6 +170,7 @@
 .update_para{
     margin-top: 2%;
     text-align: center;
+    margin-bottom: 2%;
 }
 
 
@@ -197,8 +198,8 @@
     margin-left: 550px;
 }
 .update_cont{
-    padding-top: 50px;
-    padding-bottom: 25px;
+    padding: 50px;
+    margin-bottom: 5%;
     
     background-color: rgb(255, 233, 225);
     width: 100%;

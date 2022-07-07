@@ -81,7 +81,7 @@
     background-color: rgb(241, 244, 247);
     font-size: 20px;
 }
-input{
+.inpt{
 
     padding: 5px;
     width: 50%;
@@ -172,6 +172,42 @@ input{
     text-align: center;
 }
 
+
+.btn_design{
+    margin-left: -4px;
+    background-color: orangered;
+    color: white;
+    border: none;
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px;
+    
+    padding: 5px;
+}
+.mail_design{
+    margin-left: -4px;
+    background-color: rgb(221, 210, 210);
+    color: white;
+    border: none;
+    
+    padding: 5px;
+
+}
+.mail_inpt{
+    margin-top: 10px;
+    margin-left: 550px;
+}
+.update_cont{
+    padding-top: 50px;
+    padding-bottom: 25px;
+    
+    background-color: rgb(255, 233, 225);
+    width: 100%;
+    
+}
+
+footer p{
+    color: white;
+}
 footer{
     margin-top: 10px;
     width: 100%;
@@ -184,7 +220,4 @@ footer{
     color:orangered;
     padding: 20px;
      font-family: 'Space Mono', monospace;
-}
-footer p{
-    color: white;
 }

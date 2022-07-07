@@ -218,6 +218,7 @@ footer{
 }
 .footer_heading{
     color:orangered;
-    padding: 20px;
+    padding: 25px;
      font-family: 'Space Mono', monospace;
+     font-weight: 700;
 }
